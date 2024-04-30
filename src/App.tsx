@@ -1,6 +1,7 @@
 import React from "react";
 import BackgroundImage from "./components/BackgroundImage";
 import TerminalBox from "./components/TerminalBox";
+import { Analytics } from "@vercel/analytics/react"
 
 export default function App() {
 	return (
