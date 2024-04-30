@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.wrapper {
+	display: block !important;
+}
+
+.box::-webkit-scrollbar {
+	display: none;
+}	
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.box {
+	-ms-overflow-style: none; /* IE and Edge */
+	scrollbar-width: none; /* Firefox */
+}
