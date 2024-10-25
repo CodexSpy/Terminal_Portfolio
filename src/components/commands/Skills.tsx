@@ -31,30 +31,14 @@ export default function Skills() {
 			text: "Typescript",
 
 		},
-		{
-			Icon: SiSpringboot,
-			barWidth: "w-80%",
-			percentageValue: "80%",
-			text: "Sprinboot",
-		},
-		{
-			Icon: SiNextdotjs,
-			barWidth: "w-85%",
-			percentageValue: "85%",
-			text: "Next.js",
-		},
+		
 		{
 			Icon: SiExpress,
 			barWidth: "w-75%",
 			percentageValue: "75%",
 			text: "express.js",
 		},
-		{
-			Icon: SiApachejmeter,
-			barWidth: "w-80%",
-			percentageValue: "80%",
-			text: "Jmeter",
-		},
+		
 		{
 			Icon: SiTableau,
 			barWidth: "w-80%",
